@@ -6,7 +6,6 @@
     "bio": "Sobre o Diego Alcantara\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/desmond-eagle.jpg",
         "altText": "Desmond Eagle photo"
     }
 }
