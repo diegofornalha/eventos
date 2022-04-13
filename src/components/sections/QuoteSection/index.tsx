@@ -75,17 +75,11 @@ function quoteContent(props) {
         <blockquote>
             {props.quote && (
                 <Markdown
-options = {};
-{
-    forceBlock: true, forceWrapper;
-    true;
-}
-className = { classNames: function (, , , , styles) { }, : .quote ? mapStyles(styles.quote) : null };
-data - sb - field - path;
-".quote"
-    >
-        { props: props, : .quote };
-
+                    options={{ forceBlock: true, forceWrapper: true }}
+                    className={classNames('sb-markdown', 'text-3xl', 'sm:text-4xl', 'text-align: center', styles.quote ? mapStyles(styles.quote) : null)}
+                    data-sb-field-path=".quote"
+                >
+                    {props.quote}
                 </Markdown>
             )}
             {(props.name || props.title) && (
