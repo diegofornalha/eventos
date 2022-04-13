@@ -43,7 +43,7 @@ sections:
         textAlign: left
   - type: CtaSection
     elementId: ''
-    colors: colors-g
+    colors: colors-h
     backgroundSize: full
     title: Let's do this
     text: >-
