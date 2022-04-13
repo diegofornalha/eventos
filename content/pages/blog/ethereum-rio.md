@@ -10,7 +10,7 @@ date: '2022-03-01'
 excerpt: Ethereum rio
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Ethereum rio.png
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
