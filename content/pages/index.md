@@ -52,6 +52,14 @@ sections:
         url: 'https://bileto.sympla.com.br/event/72483'
         style: primary
         altText: COMPRE O 1º LOTE GENESIS
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     backgroundImage: null
     styles:
       self:
