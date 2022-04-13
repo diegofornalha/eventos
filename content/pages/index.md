@@ -51,6 +51,7 @@ sections:
         label: COMPRE O 1º LOTE GENESIS
         url: /
         style: primary
+        altText: COMPRE O 1º LOTE GENESIS
     backgroundImage: null
     styles:
       self:
