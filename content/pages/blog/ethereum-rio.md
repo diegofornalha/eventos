@@ -23,14 +23,10 @@ Foi uma experiência incrível, com mais de 100 participantes com um total de 24
 
 Acreditamos que esse tipo de evento pode realmente acelerar o crescimento do ecossistema da América Latina, tanto impactando causas sociais diretas, quanto inovando no campo da tecnologia. É por isso que tivemos duas pistas diferentes: Open Track e Social Track. Também damos um Prêmio Impacto Ethereum.Rio extra
 
-
-
 A trilha social
 Nesta trilha, no início do evento, algumas iniciativas sociais ou ONGs apresentaram seus projetos e problemas aos hackers e eles tiveram que escolher um deles para construir uma solução.
 
 Abaixo listamos todas as iniciativas apresentadas:
-
-
 
 Novos Líderes
 
@@ -94,3 +90,67 @@ Site: https://coletivopaporeto.org/
 Contato: Thainã de Medeiros (thainasfdemedeiros@gmail.com)
 
 O Papo Reto é uma comunicação, tecnologia, cultura, educação e cidadania do Complexo do Alemão. Eles usam a internet e a comunicação audiovisual para reivindicar os direitos das favelas e pressionar o governo por investimentos nessa área
+
+
+
+Arte de criptografia social
+
+Um marketplace local de NFT focado em artistas locais das favelas, trazendo acesso e conhecimento para eles.
+
+Dapp: https://eth-dapp.herokuapp.com/
+
+Github: https://github.com/PedroCailleret/ethrio-hackathon
+
+Vídeo: https://youtu.be/d-Jlhh1AEs0
+
+EducaDAO
+
+Aprenda a ganhar modelo focado em reduzir a evasão da criança das escolas
+
+Dapp: https://educadao.netlify.app/
+
+Github: https://github.com/eth-ribon
+
+Vídeo: https://www.loom.com/share/0a2dea2b568a453e91d1d3a39d3c07b6
+
+mosaico
+
+Uma galeria de RV para NFTs juntamente com um DAO para os interessados ​​em arte: curadores, artistas, revendedores, etc.
+
+Dapp: https://hubs.mozilla.com/b3tJJ7s/mosaico
+
+Github: https://github.com/neodaoist/mosaic
+
+Vídeo: https://youtu.be/Sh3XKcwEiuo
+
+FavelART
+
+Mais oportunidades econômicas para artistas que pertencem a comunidades.
+
+Dapp: https://dreamy-heyrovsky-b9f702.netlify.app/index.html
+
+Github: https://github.com/KalilBalech/hackathon-ethereum-rio
+
+Vídeo: https://www.youtube.com/watch?v=mmeZCvmcdqo
+
+Das Marias
+
+Aplicativo de investimento para quem não tem conta bancária, onde eles podem tanto investir diretamente em DeFi quanto economizar fundos em uma conta emergencial. O Dapp está planejado para ter um sistema governamental de baixo para cima embutido.
+
+Dapp: https://dasmarias.netlify.app
+
+Github: https://github.com/fysp11/das-marias-dapp
+
+Vídeo: https://www.youtube.com/watch?v=TZ5Pd43bllg
+
+Prêmio Impacto Social Ethereum Rio
+Líderes NegrosDAO
+
+A BlackLeadersDAO tem a missão de promover a próxima geração de líderes negros em todo o mundo, começando no Rio, por meio de educação tecnológica, educação financeira, programas sociais e lançamentos de NFT e tokens sociais.
+
+Dapp: https://explorer.harmony.one/address/0xac6d196ad9ceba1c266eabf91a7b9b3e030357ae
+
+Github: https://github.com/BlackLeadersDAO
+
+Vídeo: https://tinyurl.com/bld-ethrio-presentation
+
