@@ -9,7 +9,7 @@ sections:
 
 
     name: Johnna Doe
-    title: Product Marketing Manager at Acme
+    title: Eventos educacionais PRESENCIAIS de criptoativos
     backgroundImage:
       url: /images/rio crypto day.png
       altText: Product Marketing Manager Quote
