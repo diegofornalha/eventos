@@ -40,8 +40,11 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
-    quote: |
-      # Rio Cripto Day
+    quote: |+
+
+
+
+
   - type: CtaSection
     elementId: ''
     colors: colors-b
