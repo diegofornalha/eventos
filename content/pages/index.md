@@ -53,7 +53,7 @@ sections:
         style: primary
         altText: COMPRE O 1º LOTE GENESIS
       - type: Link
-        label: Learn more
+        label: Site Oficial
         altText: ''
         url: /
         showIcon: false
