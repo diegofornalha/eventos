@@ -8,7 +8,7 @@ sections:
     quote: |+
 
 
-    name: "✏️2ª edição 04/06/22\U0001F4CDTeatro Multiplan | COMPRE O 1º LOTE GENESIS \U0001F447\U0001F3FC"
+    name: ✏️2ª edição 04/06/22
     title: Eventos educacionais PRESENCIAIS de criptoativos
     backgroundImage:
       url: /images/rio crypto day.png
