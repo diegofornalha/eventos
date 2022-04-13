@@ -76,7 +76,7 @@ function quoteContent(props) {
             {props.quote && (
                 <Markdown
                     options={{ forceBlock: true, forceWrapper: true }}
-                    className={classNames('sb-markdown', 'text-3xl', 'sm:text-10xl', 'text-center m-2 w-64', styles.quote ? mapStyles(styles.quote) : null)}
+                    className={classNames('sb-markdown', 'text-3xl', 'sm:text-10x3', 'text-center m-2 w-64', styles.quote ? mapStyles(styles.quote) : null)}
                     data-sb-field-path=".quote"
                 >
                     {props.quote}
