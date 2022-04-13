@@ -39,7 +39,7 @@ sections:
       title:
         fontWeight: 400
         fontStyle: normal
-        textAlign: left
+        textAlign: center
     quote: '<div style="text-align: center;"> Rio Cripto Day'
   - type: CtaSection
     elementId: ''
