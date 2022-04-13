@@ -55,7 +55,7 @@ sections:
       - type: Link
         label: Site Oficial
         altText: Site Oficial
-        url: /
+        url: 'https://www.instagram.com/riocriptoday/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
