@@ -17,6 +17,7 @@ sections:
         self:
           opacity: 70
       caption: Rio Cripto Day
+      elementId: Rio Cripto Day
     styles:
       self:
         height: auto
