@@ -45,7 +45,7 @@ sections:
     elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: "Teatro Multiplan | COMPRE 1º \U0001F447\U0001F3FCLOTE GENESIS"
+    title: Teatro Multiplan
     actions:
       - type: Button
         label: Try it now
