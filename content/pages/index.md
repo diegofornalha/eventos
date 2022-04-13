@@ -12,7 +12,7 @@ sections:
     title: Eventos educacionais PRESENCIAIS de criptoativos
     backgroundImage:
       url: /images/background-overlay.png
-      altText: Rio Cripto day
+      altText: Rio Cripto Day
       styles:
         self:
           opacity: 70
