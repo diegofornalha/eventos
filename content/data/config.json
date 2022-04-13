@@ -16,7 +16,7 @@
             },
             {
                 "type": "Link",
-                "altText": "Blog",
+                "altText": "Eventos Anteriores",
                 "url": "/blog",
                 "label": "Eventos Anteriores"
             }
