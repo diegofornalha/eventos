@@ -11,7 +11,7 @@ sections:
     name: ✏️2ª edição 04/06/22
     title: Eventos educacionais PRESENCIAIS de criptoativos
     backgroundImage:
-      url: /images/rio crypto day.png
+      url: /images/background-overlay.png
       altText: Product Marketing Manager Quote
       styles:
         self:
