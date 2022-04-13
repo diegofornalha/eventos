@@ -19,4 +19,5 @@ postFeed:
 styles:
   title:
     textAlign: center
+socialImage: /images/Screenshot_4_ccexpress.png
 ---
