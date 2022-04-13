@@ -16,6 +16,7 @@ sections:
       styles:
         self:
           opacity: 70
+      caption: Rio Cripto Day
     styles:
       self:
         height: auto
