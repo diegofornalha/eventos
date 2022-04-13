@@ -16,7 +16,7 @@
             },
             {
                 "type": "Link",
-                "label": "Eventos",
+                "label": "Conteúdo",
                 "altText": "Blog",
                 "url": "/blog"
             }
