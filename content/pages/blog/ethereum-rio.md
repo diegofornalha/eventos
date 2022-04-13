@@ -25,7 +25,6 @@ Acreditamos que esse tipo de evento pode realmente acelerar o crescimento do eco
 
 # A trilha social
 
-
 Nesta trilha, no início do evento, algumas iniciativas sociais ou ONGs apresentaram seus projetos e problemas aos hackers e eles tiveram que escolher um deles para construir uma solução.
 
 Abaixo listamos todas as iniciativas apresentadas:
@@ -77,8 +76,6 @@ Contato: Camila Nunes (camila@goimpato.com)
 
 Plataforma de matchmaking que conecta doadores e projetos sociais de forma fácil, segura e transparente.
 
-
-
 #### Arte de criptografia social
 
 Site: https://twitter.com/socialcryptoart
@@ -87,8 +84,6 @@ Contato: Gean Guilherme (socialcryptoart@gmail.com)
 
 A Social Crypto Art começou com o artista do NFT Gean que é de uma das favelas chamada Morro do Alemão. Ele pretende expandir seu conhecimento sobre arte para outros jovens da favela.
 
-
-
 #### Coletivo Papo Reto
 
 Site: https://coletivopaporeto.org/
@@ -96,8 +91,6 @@ Site: https://coletivopaporeto.org/
 Contato: Thainã de Medeiros (thainasfdemedeiros@gmail.com)
 
 O Papo Reto é uma comunicação, tecnologia, cultura, educação e cidadania do Complexo do Alemão. Eles usam a internet e a comunicação audiovisual para reivindicar os direitos das favelas e pressionar o governo por investimentos nessa área.
-
-
 
 #### Arte de criptografia social
 
@@ -109,8 +102,6 @@ Github: https://github.com/PedroCailleret/ethrio-hackathon
 
 Vídeo: https://youtu.be/d-Jlhh1AEs0
 
-
-
 #### EducaDAO
 
 Aprenda a ganhar modelo focado em reduzir a evasão da criança das escolas
@@ -120,8 +111,6 @@ Dapp: https://educadao.netlify.app/
 Github: https://github.com/eth-ribon
 
 Vídeo: https://www.loom.com/share/0a2dea2b568a453e91d1d3a39d3c07b6
-
-
 
 #### mosaico
 
@@ -133,8 +122,6 @@ Github: https://github.com/neodaoist/mosaic
 
 Vídeo: https://youtu.be/Sh3XKcwEiuo
 
-
-
 #### FavelART
 
 Mais oportunidades econômicas para artistas que pertencem a comunidades.
@@ -144,8 +131,6 @@ Dapp: https://dreamy-heyrovsky-b9f702.netlify.app/index.html
 Github: https://github.com/KalilBalech/hackathon-ethereum-rio
 
 Vídeo: https://www.youtube.com/watch?v=mmeZCvmcdqo
-
-
 
 #### Das Marias
 
@@ -157,7 +142,11 @@ Github: https://github.com/fysp11/das-marias-dapp
 
 Vídeo: https://www.youtube.com/watch?v=TZ5Pd43bllg
 
-#### &#xD;&#xA;Líderes NegrosDAO
+#### &#xD;
+
+
+
+#### Líderes NegrosDAO
 
 A BlackLeadersDAO tem a missão de promover a próxima geração de líderes negros em todo o mundo, começando no Rio, por meio de educação tecnológica, educação financeira, programas sociais e lançamentos de NFT e tokens sociais.
 
@@ -166,8 +155,6 @@ Dapp: https://explorer.harmony.one/address/0xac6d196ad9ceba1c266eabf91a7b9b3e030
 Github: https://github.com/BlackLeadersDAO
 
 Vídeo: https://tinyurl.com/bld-ethrio-presentation
-
-
 
 #### Criptografia óbvia
 
@@ -180,8 +167,6 @@ Frente: https://github.com/Alextnetto/aura-mercurius-front
 Voltar: https://github.com/Alextnetto/aura-mercurius-back
 
 Vídeo: https://www.youtube.com/watch?v=jIbbZKu0Ku4
-
-
 
 #### Omnisig
 
@@ -198,6 +183,3 @@ Dapp: https://explorer.harmony.one/address/0xac6d196ad9ceba1c266eabf91a7b9b3e030
 Github: https://github.com/BlackLeadersDAO
 
 Vídeo: https://tinyurl.com/bld-ethrio-presentation
-
-
-
