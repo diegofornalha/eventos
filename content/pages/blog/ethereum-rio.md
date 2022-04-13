@@ -7,9 +7,7 @@ socialImage: null
 metaTags: []
 title: Ethereum rio
 date: '2022-03-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Ethereum rio
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
