@@ -54,7 +54,7 @@ sections:
         altText: COMPRE O 1º LOTE GENESIS
       - type: Link
         label: Acompanhe Novidades no Instagram
-        altText: Site Oficial
+        altText: Acompanhe Novidades no Instagram
         url: 'https://www.instagram.com/riocriptoday/'
         showIcon: false
         icon: arrowRight
