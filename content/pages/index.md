@@ -12,7 +12,7 @@ sections:
     title: Eventos educacionais PRESENCIAIS de criptoativos
     backgroundImage:
       url: /images/background-overlay.png
-      altText: Product Marketing Manager Quote
+      altText: Rio Cry
       styles:
         self:
           opacity: 70
