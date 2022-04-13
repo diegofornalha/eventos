@@ -45,7 +45,7 @@ sections:
     elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: Let's do this
+    title: "Teatro Multiplan | COMPRE O 1º LOTE GENESIS \U0001F447\U0001F3FC"
     actions:
       - type: Button
         label: Try it now
