@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Ethereum rio
+title: Cobertura Ethereum rio Hackathon
 date: '2022-03-01'
 excerpt: Ethereum rio
 featuredImage:
