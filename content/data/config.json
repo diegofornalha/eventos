@@ -24,7 +24,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Proximo Evento: RIO2C",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
