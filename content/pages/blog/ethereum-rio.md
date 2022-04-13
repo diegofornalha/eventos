@@ -17,6 +17,12 @@ bottomSections: []
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qp01pJIcHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+Mais conteúdos em vídeo: https://www.youtube.com/c/EthereumRio/videos
+
+
+
 Após eventos incríveis como Bootcamp, Launchpad, Main event e Open day, fechamos o Ethereum Rio com um Hackathon.
 
 Foi uma experiência incrível, com mais de 100 participantes com um total de 24 equipes presenciais. Graças à Fabrica de Startups tivemos uma ótima infraestrutura incluindo quarto de dormir e boa internet. O Ethereum.Rio também forneceu comida e bebidas gratuitas.
@@ -141,8 +147,6 @@ Dapp: https://dasmarias.netlify.app
 Github: https://github.com/fysp11/das-marias-dapp
 
 Vídeo: https://www.youtube.com/watch?v=TZ5Pd43bllg
-
-
 
 #### Líderes NegrosDAO
 
