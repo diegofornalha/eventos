@@ -23,7 +23,7 @@ const TAILWIND_MAP = {
         800: 'font-extrabold'
     },
     textAlign: {
-        left: 'text-left',
+        left: 'text-center',
         center: 'text-center',
         right: 'text-right',
         justify: 'text-justify'
