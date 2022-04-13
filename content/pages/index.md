@@ -71,9 +71,9 @@ sections:
         justifyContent: center
         flexDirection: col
       title:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: flex-start
 ---
