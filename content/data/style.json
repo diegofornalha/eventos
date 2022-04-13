@@ -46,7 +46,7 @@
     "fontBody": "sansAlt",
     "main": "#263326",
     "light": "#ffffff",
-    "onLight": "#ffffff",
+    "onLight": "#000000",
     "dark": "#795CE5",
     "onDark": "#263326",
     "primary": "#4CE577",
