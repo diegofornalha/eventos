@@ -17,7 +17,8 @@
             {
                 "type": "Link",
                 "altText": "Blog",
-                "url": "/blog"
+                "url": "/blog",
+                "label": "Eventos "
             }
         ],
         "secondaryLinks": [
