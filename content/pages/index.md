@@ -5,9 +5,6 @@ sections:
   - type: QuoteSection
     elementId: ''
     colors: colors-h
-    quote: |+
-
-
     name: ✏️2ª edição 04/06/22
     title: Eventos educacionais PRESENCIAIS de criptoativos
     backgroundImage:
