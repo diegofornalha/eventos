@@ -71,7 +71,7 @@ sections:
         justifyContent: center
         flexDirection: col
       title:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
       actions:
