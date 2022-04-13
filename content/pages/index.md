@@ -49,7 +49,7 @@ sections:
     actions:
       - type: Button
         label: COMPRE O 1º LOTE GENESIS
-        url: /
+        url: 'https://bileto.sympla.com.br/event/72483'
         style: primary
         altText: COMPRE O 1º LOTE GENESIS
     backgroundImage: null
