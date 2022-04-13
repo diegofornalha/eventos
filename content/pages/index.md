@@ -54,7 +54,7 @@ sections:
         altText: COMPRE O 1º LOTE GENESIS
       - type: Link
         label: Site Oficial
-        altText: ''
+        altText: Site Oficial
         url: /
         showIcon: false
         icon: arrowRight
