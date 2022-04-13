@@ -142,8 +142,6 @@ Github: https://github.com/fysp11/das-marias-dapp
 
 Vídeo: https://www.youtube.com/watch?v=TZ5Pd43bllg
 
-#### &#xD;
-
 
 
 #### Líderes NegrosDAO
