@@ -48,7 +48,7 @@ sections:
     title: Teatro Multiplan
     actions:
       - type: Button
-        label: Try it now
+        label: COMPRE O 1º LOTE GENESIS
         url: /
         style: primary
     backgroundImage: null
