@@ -26,7 +26,7 @@
                 "type": "Button",
                 "label": "Próximo Evento: RIO2C",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Próximo Evento: RIO2C",
                 "style": "primary"
             }
         ],
